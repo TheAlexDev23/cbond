@@ -1,0 +1,4 @@
+[submodule "lib/pttui"]
+	path = lib/pttui
+	url = https://github.com/thealexdev23/libpttui
+    branch = main
