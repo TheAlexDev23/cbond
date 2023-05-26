@@ -11,4 +11,4 @@ add_executable(
     src/cbond.c
 )
 
-target_link_libraries(${PROJECT_NAME} pttui cwalk)
+target_link_libraries(${PROJECT_NAME} pttui cwalk m)
