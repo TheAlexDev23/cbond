@@ -1,4 +1,7 @@
-.vscode
+# Ignore vscode except for shared settings
+.vscode/*
+!.vscode/launch.json
+
 build
 
 # Prerequisites
